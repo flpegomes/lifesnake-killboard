@@ -1,0 +1,12 @@
+.app-container {
+    min-height: 100vh;
+    background-color: #191414;
+    margin: 0px;
+    justify-content: center;
+    
+}
+
+body {
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

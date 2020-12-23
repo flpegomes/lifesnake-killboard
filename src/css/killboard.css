@@ -1,0 +1,136 @@
+.page-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.killboard-container {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    flex-direction: column;
+    margin: 0px 10%;
+    padding: 10px 0px;
+
+}
+
+.card-killboard-container {
+    height: 150px;
+    width: 800px;
+    display: flex;
+    background-color: #1DB954;
+    margin-top: 20px;
+    border-radius: 2px;
+    align-items: center;
+}
+
+.card-killboard-time-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 80%;
+    padding: 0px 25px;
+    border-right: 1px #191414 solid;
+}
+
+.card-killboard-time-date {
+    color: #191414;
+    font-size: 13px;
+}
+
+.card-killboard-time-hour{
+    color: #333;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.card-killboard-resume-alliance-kills-container {
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+    font-size: 12px;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 4px;
+}
+
+.card-killboard-resume-alliance-kills {
+    display: flex;
+    justify-content: space-between;
+    margin: 4px 12px;
+    background-color: #eeeeee;
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 4px;
+    width: 200px;
+    height: 70px;
+}
+
+.card-killboard-resume-alliance-kills-info {
+    display: flex;
+    flex-direction: column;
+    margin-top: 7px;
+    height: 100%;
+}
+
+.card-killboard-resume-alliance-kills-top1 {
+    display: flex;
+    margin: 4px 12px;
+    background-color: #fff;
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 4px;
+    width: 230px;
+    height: 85px;
+}
+
+.card-killboard-resume-alliance-kd-name {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.card-killboard-resume-alliance-kills-subtitle {
+    display: flex;
+    justify-content: space-between;
+    font-size: 9px;
+}
+
+
+.card-killboard-resume-alliance-kills-inRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inRow-subtitle{
+    font-size: 9px;
+}
+
+
+
+.crown-icon {
+    height: 14px;
+    width: 14px;
+}
+
+.crown-container { 
+    align-self: flex-end;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #333;
+    font-weight: bold;
+    font-size: 11px;
+}
+
+
+
+
